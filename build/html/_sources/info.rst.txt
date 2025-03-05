@@ -31,46 +31,8 @@ Aqui você pode adicionar informações que são
       - SSID: `Visitantes`  Senha: `coop@vel`
     * - Impressoras:
       - S1KY -ADM -02 E CL112 -COL1 - Colorida
- 
-Módulos
---------
+    * - G5:
+      - Sistema que possúi módulos de administração instalados no servidor local da coopavel.
+    * - G7:
+      - Sistema que possúi Módulos nas nuvens, exemplo módulo que marcação de ponto.
 
- - **Módulo: Administração Pessoa**
-    - **Descrição**: Módulo responsável por administrar as informações dos colaboradores da COOPAVEL.
-    - **Funcionalidades**: 
-        - Cadastro de colaboradores
-        - Alteração de dados
-        - Exclusão de colaboradores
-        - Consulta de colaboradores
-        - Relatórios
-    - **Apelido**: AP
-
-- **Módulo: Administração de Ponto**
-    - **Descrição**: Módulo responsável por administrar as informações de ponto dos colaboradores da COOPAVEL.
-    - **Funcionalidades**: 
-        - Cadastro de ponto
-        - Alteração de ponto
-        - Exclusão de ponto
-        - Consulta de ponto
-        - Relatórios
-    - **Apelido**: CP
-
-- **Módulo: Segurança e Medicina do Trabalho**
-    - **Descrição**: Módulo responsável por administrar as informações de segurança e medicina do trabalho dos colaboradores da COOPAVEL.
-    - **Funcionalidades**: 
-        - Cadastro de exames
-        - Alteração de exames
-        - Exclusão de exames
-        - Consulta de exames
-        - Relatórios
-    - **Apelido**: MS
-
-- **Módulo: Sistema de Gestão de Usuários**
-    - **Descrição**: Módulo responsável por administrar as informações de usuários do sistema Senior.
-    - **Funcionalidades**: 
-        - Cadastro de usuários
-        - Alteração de usuários
-        - Exclusão de usuários
-        - Consulta de usuários
-        - Adicionar/ Excluir Grupos de acessos 
-    - **Apelido**: SGU

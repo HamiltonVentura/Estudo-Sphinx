@@ -31,7 +31,11 @@ Aqui você pode adicionar informações que são
       - SSID: `Visitantes`  Senha: `coop@vel`
     * - Impressoras:
       - S1KY -ADM -02 E CL112 -COL1 - Colorida
- 
+    * - G5:
+      - Sistema que possúi módulos de administração instalados no servidor local da coopavel.
+    * - G7:
+      - Sistema que possúi Módulos nas nuvens, exemplo módulo que marcação de ponto.
+
 Módulos
 --------
 

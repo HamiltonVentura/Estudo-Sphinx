@@ -1,5 +1,7 @@
-Regras de Conduta e da Área de T.I
+Regras
 ===================================
+Regras relacionadas aos setores de tecnologia da informação
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Introdução
 ----------

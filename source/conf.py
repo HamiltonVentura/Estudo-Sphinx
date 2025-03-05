@@ -27,6 +27,18 @@ language = 'Pt_Br'
 # Caminho para o PlantUML (ajuste conforme necessário)
 plantuml = f'java -jar {os.path.expanduser("~/plantuml/plantuml.jar")}'
 
+
+latex_engine = 'xelatex'  # ou 'pdflatex'
+
+latex_elements = {
+    'papersize': 'a4paper',
+    'pointsize': '12pt',
+    'preamble': r'''
+        \usepackage{fontspec}
+        \setmainfont{Times New Roman}
+    ''',
+}
+
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
@@ -35,5 +47,4 @@ plantuml = f'java -jar {os.path.expanduser("~/plantuml/plantuml.jar")}'
 #sphinx_rtd_theme
 html_theme = 'alabaster'
 html_static_path = ['_static']
-
 
