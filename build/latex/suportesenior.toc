@@ -1,0 +1,20 @@
+\selectlanguage *[variant=portuguese]{portuguese}
+\contentsline {chapter}{\numberline {1}Introdução}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}\sphinxstylestrong {Público\sphinxhyphen {}Alvo}:}{3}{section.1.1}%
+\contentsline {section}{\numberline {1.2}\sphinxstylestrong {Importância do Conteúdo}:}{3}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Informações Guias}{4}{subsection.1.2.1}%
+\contentsline {subsubsection}{Informações de Consulta Rápida}{4}{subsubsection*.4}%
+\contentsline {subsection}{\numberline {1.2.2}Dúvidas Frequentes}{4}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Visão Geral do Suporte de T.I Senior}{4}{subsection.1.2.3}%
+\contentsline {subsubsection}{Funções e Responsabilidades:}{4}{subsubsection*.5}%
+\contentsline {subsubsection}{o Tirar Dúvidas com relação a processos;}{5}{subsubsection*.6}%
+\contentsline {subsubsection}{Objetivos da Área:}{5}{subsubsection*.7}%
+\contentsline {subsubsection}{Interfaces com Outras Áreas:}{5}{subsubsection*.8}%
+\contentsline {subsection}{\numberline {1.2.4}Regras}{5}{subsection.1.2.4}%
+\contentsline {subsubsection}{Regras relacionadas aos setores de tecnologia da informação}{5}{subsubsection*.9}%
+\contentsline {paragraph}{Introdução}{5}{paragraph*.10}%
+\contentsline {subsection}{\numberline {1.2.5}Regras de Conduta}{5}{subsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.2.6}Conceitos importantes}{9}{subsection.1.2.6}%
+\contentsline {subsubsection}{Elementos de um Posto de Trabalho}{9}{subsubsection*.11}%
+\contentsline {subsubsection}{Importância de um Posto de Trabalho Adequado}{9}{subsubsection*.12}%
+\contentsline {subsection}{\numberline {1.2.7}Consulta}{10}{subsection.1.2.7}%

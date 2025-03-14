@@ -9,6 +9,10 @@ Manual Suporte de T.I
 
 .. _introducao:
 
+.. image:: _static/coopavel.png
+   :alt: Logo da Coopavel
+   :width: 200px
+   
 Introdução
 ==========
 
@@ -28,8 +32,9 @@ Para dúvidas ou sugestões de melhoria, entre em contato com o responsável pel
 
 **Público-Alvo**:
 ------------------
-Este Documento é destinado aos colaboradores que atuam no suporte
-SENIOR.
+.. note::
+    Este Documento é destinado aos colaboradores que atuam no suporte
+    SENIOR.
 
 **Importância do Conteúdo**:
 -------------------------------

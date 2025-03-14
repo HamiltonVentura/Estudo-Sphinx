@@ -11,17 +11,16 @@ import os
 project = 'Suporte Senior'
 copyright = '2025, Coopavel'
 author = 'Coopavel'
-release = '1'
+release = '0.01'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
-extensions = ['sphinxcontrib.plantuml','sphinx.ext.graphviz']
+extensions = ['sphinxcontrib.plantuml', 'sphinx.ext.graphviz']
+
 
 templates_path = ['_templates']
 exclude_patterns = []
-language = 'Pt_Br'
-
-
+language = 'pt'
 
 
 # Caminho para o PlantUML (ajuste conforme necessário)
@@ -30,12 +29,10 @@ plantuml = f'java -jar {os.path.expanduser("~/plantuml/plantuml.jar")}'
 
 latex_engine = 'xelatex'  # ou 'pdflatex'
 
+
 latex_elements = {
-    'papersize': 'a4paper',
-    'pointsize': '12pt',
-    'preamble': r'''
-        \usepackage{fontspec}
-        \setmainfont{Times New Roman}
+    'fontpkg': r'''
+        \setmainfont{Liberation Serif}
     ''',
 }
 
@@ -45,6 +42,6 @@ latex_elements = {
 #bizstyle
 #alabaster
 #sphinx_rtd_theme
-html_theme = 'alabaster'
+html_theme = "sphinx_rtd_theme"
 html_static_path = ['_static']
 
