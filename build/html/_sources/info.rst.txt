@@ -18,16 +18,16 @@ Aqui você pode adicionar informações que são
 
     * - Serviço: 
       - Detalhes
-    * - Ramal Suporte Senior
-      - 5609
+    * - Ramal Suporte de T.I
+      - 4444
     * - Número Empresa
-      - 45 3217-5000
+      - 45 3217-6546
     * - Ramal Coordenadora
       - Fulano: '6666'
     * - Sistema de Chamados(help Desk)
       - URL: `https://glpi.com.br
     * - Acesso ao Servidor Produção
-      - Endereço: `fdf`
+      - Endereço: `tretrtt`
     * - Acesso ao Servidor Teste
       - Endereço: `homologação`
     * - Wi-Fi
@@ -37,5 +37,5 @@ Aqui você pode adicionar informações que são
     * - G5:
       - Sistema que possúi módulos de administração instalados no servidor local da EMpresa.
     * - G7:
-      - Sistema que possúi Módulos nas nuvens, exemplo módulo que marcação de ponto.
+      - Sistema que possúi Módulos nas nuvens.
 
