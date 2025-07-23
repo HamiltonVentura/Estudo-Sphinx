@@ -25,13 +25,13 @@ Um posto de trabalho bem estruturado é essencial para garantir a produtividade,
    }
 
    rectangle "Postos de Trabalho" {
-       rectangle "Setor Semente" {
+       rectangle "Setor exemplo" {
            "Engenheiro"
            "Analista"
            "Técnico"
            "Serviços Gerais"
        }
-       rectangle "Setor Laboratório" {
+       rectangle "Setor leite" {
            "Médico"
            "Técnico em enfermagem"
            "Biomédico"

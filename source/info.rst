@@ -18,7 +18,7 @@ Aqui você pode adicionar informações que são
 
     * - Serviço: 
       - Detalhes
-    * - Ramal Suporte de T.I
+    * - Ramal Suporte
       - 4444
     * - Número Empresa
       - 45 3217-6546
@@ -34,8 +34,8 @@ Aqui você pode adicionar informações que são
       - SSID: `Visitantes`  Senha: `fdgf@vel`
     * - Impressoras:
       - S1KY -ADM -02 E CL112 -COL1 - Colorida
-    * - G5:
+    * - h6:
       - Sistema que possúi módulos de administração instalados no servidor local da EMpresa.
-    * - G7:
+    * - h7:
       - Sistema que possúi Módulos nas nuvens.
 
