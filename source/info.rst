@@ -18,24 +18,24 @@ Aqui você pode adicionar informações que são
 
     * - Serviço: 
       - Detalhes
-    * - Ramal Suporte Senior
-      - 5609
-    * - Número Coopavel
-      - 45 3218-5000
+    * - Ramal Suporte de T.I
+      - 4444
+    * - Número Empresa
+      - 45 3217-6546
     * - Ramal Coordenadora
-      - Cláudia: '5081'
+      - Fulano: '6666'
     * - Sistema de Chamados(help Desk)
-      - URL: `https://glpi.coopavel.com.br`
+      - URL: `https://glpi.com.br
     * - Acesso ao Servidor Produção
-      - Endereço: `cooplogrem://wts_rh.sol.com.br`
+      - Endereço: `tretrtt`
     * - Acesso ao Servidor Teste
-      - Endereço: `Estige`
+      - Endereço: `homologação`
     * - Wi-Fi
-      - SSID: `Visitantes`  Senha: `coop@vel`
+      - SSID: `Visitantes`  Senha: `fdgf@vel`
     * - Impressoras:
       - S1KY -ADM -02 E CL112 -COL1 - Colorida
     * - G5:
-      - Sistema que possúi módulos de administração instalados no servidor local da coopavel.
+      - Sistema que possúi módulos de administração instalados no servidor local da EMpresa.
     * - G7:
-      - Sistema que possúi Módulos nas nuvens, exemplo módulo que marcação de ponto.
+      - Sistema que possúi Módulos nas nuvens.
 

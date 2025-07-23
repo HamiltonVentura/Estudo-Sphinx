@@ -9,9 +9,7 @@ Manual Suporte de T.I
 
 .. _introducao:
 
-.. image:: _static/coopavel.png
-   :alt: Logo da Coopavel
-   :width: 200px
+
    
 Introdução
 ==========

@@ -1,8 +1,8 @@
 Visão Geral do Suporte de T.I Senior
 =======================================
 O setor de Suporte de T.I Senior é responsável por atender as demandas
-relacionadas ao sistema Senior, que é o sistema de gestão de pessoas
-utilizado pela COOPAVEL. O setor é responsável por atender as demandas, como atualizações, inserção de dados, treinamentos
+relacionadas ao sistema XXX, que é o sistema de gestão de pessoas
+utilizado pela Empresa. O setor é responsável por atender as demandas, como atualizações, inserção de dados, treinamentos
 e dúvidas relacionadas ao sistema, atendendo tanto o setor RH local como das filiais.
 
 Funções e Responsabilidades:
