@@ -32,7 +32,7 @@ Para dúvidas ou sugestões de melhoria, entre em contato com o responsável pel
 ------------------
 .. note::
     Este Documento é destinado aos colaboradores que atuam no suporte
-    SENIOR.
+    
 
 **Importância do Conteúdo**:
 -------------------------------

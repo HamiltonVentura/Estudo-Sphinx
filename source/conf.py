@@ -9,8 +9,8 @@ import os
 
 
 project = 'Suporte Senior'
-copyright = '2025, Coopavel'
-author = 'Coopavel'
+copyright = '2025, Empresa'
+author = 'Hamilton V.R'
 release = '0.01'
 
 # -- General configuration ---------------------------------------------------

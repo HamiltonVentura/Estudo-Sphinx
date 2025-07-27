@@ -33,7 +33,7 @@ Aqui você pode adicionar informações que são
     * - Wi-Fi
       - SSID: `Visitantes`  Senha: `fdgf@vel`
     * - Impressoras:
-      - S1KY -ADM -02 E CL112 -COL1 - Colorida
+      - S1K45
     * - h6:
       - Sistema que possúi módulos de administração instalados no servidor local da EMpresa.
     * - h7:
