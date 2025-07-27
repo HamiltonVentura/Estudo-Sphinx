@@ -22,9 +22,16 @@ Este projeto usa o **Sphinx** para gerar documentação em HTML, PDF e outros fo
 
 ```bash
 .
-├── docs/
-│   ├── conf.py
-│   ├── index.rst
-│   └── ...
+├── build/
+│   ├── doctree/
+│   ├── html/
+├── venv/    
 ├── Makefile
-└── README.md
+|── README.md
+└── make.bat
+```
+
+## Vantagens 
+- Ferramenta simples de se instalar, executar editar e versionar
+- Aceita imagens, gifs entre outros formatos
+- Vinculo com ferramentas de geração de gráficos como Plant Uml, mermaid
