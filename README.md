@@ -1,7 +1,6 @@
 ## Utilização e aprendizado SPHINX
 # 🐍 Projeto de Documentação com Sphinx
 
-# Estudo com Sphinx
 
 Este repositório demonstra meu domínio da ferramenta Sphinx para documentação de software e processos técnicos. Ele inclui uma configuração funcional com `conf.py`, temas, estrutura modular com `toctree` e geração automática via `make html`.
 
