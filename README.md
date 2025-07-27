@@ -1,9 +1,16 @@
 ## Utilização e aprendizado SPHINX
 # 🐍 Projeto de Documentação com Sphinx
 
-Documentação técnica criada com [Sphinx](https://www.sphinx-doc.org/) para organizar e apresentar **[Nome do Projeto]** de forma clara, elegante e extensível.
+# Estudo com Sphinx
 
-![sphinx logo](https://www.sphinx-doc.org/en/master/_images/sphinx.png)
+Este repositório demonstra meu domínio da ferramenta Sphinx para documentação de software e processos técnicos. Ele inclui uma configuração funcional com `conf.py`, temas, estrutura modular com `toctree` e geração automática via `make html`.
+
+Tecnologias: Sphinx, reStructuredText, HTML.
+
+✔️ Compilável localmente  
+📄 Pode ser expandido para gerar documentação técnica de APIs ou sistemas complexos
+
+[Visualizar documentação gerada (HTML)](https://seuusuario.github.io/Estudo-Sphinx/)
 
 ---
 
