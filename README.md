@@ -31,6 +31,7 @@ Este projeto usa o **Sphinx** para gerar documentação em HTML, PDF e outros fo
 ├── build/
 │   ├── doctree/
 │   ├── html/
+|   ├── latex/
 ├── venv/    
 ├── Makefile
 |── README.md
@@ -41,3 +42,4 @@ Este projeto usa o **Sphinx** para gerar documentação em HTML, PDF e outros fo
 - Ferramenta simples de se instalar, executar editar e versionar
 - Aceita imagens, gifs entre outros formatos
 - Vinculo com ferramentas de geração de gráficos como Plant Uml, mermaid
+- Formatação nas normas ABNT ou a da escolha do usuário/Empresa
