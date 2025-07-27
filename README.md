@@ -9,7 +9,7 @@ Tecnologias: Sphinx, reStructuredText, HTML.
 ✔️ Compilável localmente  
 📄 Pode ser expandido para gerar documentação técnica de APIs ou sistemas complexos
 
-[Visualizar documentação gerada (HTML)](https://seuusuario.github.io/Estudo-Sphinx/)
+[Visualizar documentação gerada (HTML)](https://github.com/HamiltonVentura/Estudo-Sphinx/build/html/index.html)
 
 ---
 
